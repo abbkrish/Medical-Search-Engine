@@ -1,0 +1,3362 @@
+[
+    {
+        "name": "carpal-tunnel-syndrome"
+    }, 
+    {
+        "name": "female-infertility"
+    }, 
+    {
+        "name": "neuroendocrine-tumors"
+    }, 
+    {
+        "name": "hangovers"
+    }, 
+    {
+        "name": "contact-dermatitis"
+    }, 
+    {
+        "name": "high-blood-pressure"
+    }, 
+    {
+        "name": "hiv-aids"
+    }, 
+    {
+        "name": "ocular-rosacea"
+    }, 
+    {
+        "name": "intestinal-ischemia"
+    }, 
+    {
+        "name": "parkinsons-disease"
+    }, 
+    {
+        "name": "incompetent-cervix"
+    }, 
+    {
+        "name": "trichotillomania"
+    }, 
+    {
+        "name": "diabetic-nephropathy"
+    }, 
+    {
+        "name": "subconjunctival-hemorrhage"
+    }, 
+    {
+        "name": "heart-murmurs"
+    }, 
+    {
+        "name": "frostbite"
+    }, 
+    {
+        "name": "diabetic-neuropathy"
+    }, 
+    {
+        "name": "myelofibrosis"
+    }, 
+    {
+        "name": "autoimmune-hepatitis"
+    }, 
+    {
+        "name": "osteoporosis"
+    }, 
+    {
+        "name": "dermatographia"
+    }, 
+    {
+        "name": "sleep-related-eating-disorder"
+    }, 
+    {
+        "name": "suicide"
+    }, 
+    {
+        "name": "hypothyroidism"
+    }, 
+    {
+        "name": "lichen-planus"
+    }, 
+    {
+        "name": "eye-floaters"
+    }, 
+    {
+        "name": "staph-infections"
+    }, 
+    {
+        "name": "personality-disorders"
+    }, 
+    {
+        "name": "iron-deficiency-anemia"
+    }, 
+    {
+        "name": "appendicitis"
+    }, 
+    {
+        "name": "blood-in-urine"
+    }, 
+    {
+        "name": "rhabdomyosarcoma"
+    }, 
+    {
+        "name": "rumination-syndrome"
+    }, 
+    {
+        "name": "cervicitis"
+    }, 
+    {
+        "name": "soft-tissue-sarcoma"
+    }, 
+    {
+        "name": "progressive-supranuclear-palsy"
+    }, 
+    {
+        "name": "neurofibromatosis"
+    }, 
+    {
+        "name": "molar-pregnancy"
+    }, 
+    {
+        "name": "ectopic-pregnancy"
+    }, 
+    {
+        "name": "dust-mites"
+    }, 
+    {
+        "name": "nail-fungus"
+    }, 
+    {
+        "name": "separation-anxiety"
+    }, 
+    {
+        "name": "intracranial-venous-malformations"
+    }, 
+    {
+        "name": "alcohol-intolerance"
+    }, 
+    {
+        "name": "teen-depression"
+    }, 
+    {
+        "name": "nickel-allergy"
+    }, 
+    {
+        "name": "vocal-cord-paralysis"
+    }, 
+    {
+        "name": "dry-eyes"
+    }, 
+    {
+        "name": "kidney-failure"
+    }, 
+    {
+        "name": "nephrotic-syndrome"
+    }, 
+    {
+        "name": "chondromalacia-patella"
+    }, 
+    {
+        "name": "ventricular-septal-defect"
+    }, 
+    {
+        "name": "corns-and-calluses"
+    }, 
+    {
+        "name": "postpartum-depression"
+    }, 
+    {
+        "name": "proctitis"
+    }, 
+    {
+        "name": "wolff-parkinson-white"
+    }, 
+    {
+        "name": "salivary-gland-cancer"
+    }, 
+    {
+        "name": "anemia"
+    }, 
+    {
+        "name": "membranous-nephropathy"
+    }, 
+    {
+        "name": "peripheral-neuropathy"
+    }, 
+    {
+        "name": "gilberts-syndrome"
+    }, 
+    {
+        "name": "head-lice"
+    }, 
+    {
+        "name": "carotid-artery-disease"
+    }, 
+    {
+        "name": "headaches-in-children"
+    }, 
+    {
+        "name": "deviated-septum"
+    }, 
+    {
+        "name": "pemphigus"
+    }, 
+    {
+        "name": "heat-stroke"
+    }, 
+    {
+        "name": "transposition-of-the-great-arteries"
+    }, 
+    {
+        "name": "trigger-finger"
+    }, 
+    {
+        "name": "cmv"
+    }, 
+    {
+        "name": "kidney-stones"
+    }, 
+    {
+        "name": "poor-color-vision"
+    }, 
+    {
+        "name": "antisocial-personality-disorder"
+    }, 
+    {
+        "name": "type-1-diabetes-in-children"
+    }, 
+    {
+        "name": "aortic-aneurysm"
+    }, 
+    {
+        "name": "pituitary-tumors"
+    }, 
+    {
+        "name": "anal-fistula"
+    }, 
+    {
+        "name": "glioma"
+    }, 
+    {
+        "name": "hoarding-disorder"
+    }, 
+    {
+        "name": "bone-metastasis"
+    }, 
+    {
+        "name": "pediatric-white-blood-cell-disorders"
+    }, 
+    {
+        "name": "ebola-virus"
+    }, 
+    {
+        "name": "vaginal-cancer"
+    }, 
+    {
+        "name": "spinal-stenosis"
+    }, 
+    {
+        "name": "bladder-cancer"
+    }, 
+    {
+        "name": "cyclospora"
+    }, 
+    {
+        "name": "double-uterus"
+    }, 
+    {
+        "name": "pulmonary-valve-disease"
+    }, 
+    {
+        "name": "bedsores"
+    }, 
+    {
+        "name": "sciatica"
+    }, 
+    {
+        "name": "periodontitis"
+    }, 
+    {
+        "name": "prostatitis"
+    }, 
+    {
+        "name": "plantar-warts"
+    }, 
+    {
+        "name": "depression"
+    }, 
+    {
+        "name": "skin-cancer"
+    }, 
+    {
+        "name": "ampullary-cancer"
+    }, 
+    {
+        "name": "hepatitis-b"
+    }, 
+    {
+        "name": "hepatitis-a"
+    }, 
+    {
+        "name": "tularemia"
+    }, 
+    {
+        "name": "popliteal-artery-aneurysm"
+    }, 
+    {
+        "name": "undescended-testicle"
+    }, 
+    {
+        "name": "brain-aneurysm"
+    }, 
+    {
+        "name": "pagets-disease-of-bone"
+    }, 
+    {
+        "name": "traumatic-brain-injury"
+    }, 
+    {
+        "name": "ehrlichiosis"
+    }, 
+    {
+        "name": "bruxism"
+    }, 
+    {
+        "name": "sore-throat"
+    }, 
+    {
+        "name": "hip-dysplasia"
+    }, 
+    {
+        "name": "migraine-headache"
+    }, 
+    {
+        "name": "malaria"
+    }, 
+    {
+        "name": "dislocated-shoulder"
+    }, 
+    {
+        "name": "pelvic-organ-prolapse"
+    }, 
+    {
+        "name": "bulimia"
+    }, 
+    {
+        "name": "egg-allergy"
+    }, 
+    {
+        "name": "rebound-headaches"
+    }, 
+    {
+        "name": "meralgia-paresthetica"
+    }, 
+    {
+        "name": "enlarged-spleen"
+    }, 
+    {
+        "name": "heat-rash"
+    }, 
+    {
+        "name": "hair-loss"
+    }, 
+    {
+        "name": "systemic-mastocytosis"
+    }, 
+    {
+        "name": "progeria"
+    }, 
+    {
+        "name": "bone-cancer"
+    }, 
+    {
+        "name": "leukemia"
+    }, 
+    {
+        "name": "fsgs"
+    }, 
+    {
+        "name": "fibroadenoma"
+    }, 
+    {
+        "name": "preeclampsia"
+    }, 
+    {
+        "name": "adult-stills-disease"
+    }, 
+    {
+        "name": "shellfish-allergy"
+    }, 
+    {
+        "name": "back-pain"
+    }, 
+    {
+        "name": "seborrheic-keratosis"
+    }, 
+    {
+        "name": "norovirus"
+    }, 
+    {
+        "name": "thumb-arthritis"
+    }, 
+    {
+        "name": "ureter-cancer"
+    }, 
+    {
+        "name": "social-anxiety-disorder"
+    }, 
+    {
+        "name": "abdominal-aortic-aneurysm"
+    }, 
+    {
+        "name": "essential-tremor"
+    }, 
+    {
+        "name": "ruptured-spleen"
+    }, 
+    {
+        "name": "henoch-schonlein-purpura"
+    }, 
+    {
+        "name": "pinched-nerve"
+    }, 
+    {
+        "name": "earwax-blockage"
+    }, 
+    {
+        "name": "myasthenia-gravis"
+    }, 
+    {
+        "name": "irritable-bowel-syndrome"
+    }, 
+    {
+        "name": "lactose-intolerance"
+    }, 
+    {
+        "name": "growth-plate-fractures"
+    }, 
+    {
+        "name": "reactive-attachment-disorder"
+    }, 
+    {
+        "name": "type-2-diabetes-in-children"
+    }, 
+    {
+        "name": "schizoid-personality-disorder"
+    }, 
+    {
+        "name": "pancreatitis"
+    }, 
+    {
+        "name": "sacroiliitis"
+    }, 
+    {
+        "name": "dumping-syndrome"
+    }, 
+    {
+        "name": "congenital-heart-disease"
+    }, 
+    {
+        "name": "genital-warts"
+    }, 
+    {
+        "name": "sprains-and-strains"
+    }, 
+    {
+        "name": "epididymitis"
+    }, 
+    {
+        "name": "pericarditis"
+    }, 
+    {
+        "name": "arteriovenous-malformation"
+    }, 
+    {
+        "name": "entropion"
+    }, 
+    {
+        "name": "q-fever"
+    }, 
+    {
+        "name": "strep-throat"
+    }, 
+    {
+        "name": "rectal-cancer"
+    }, 
+    {
+        "name": "ovarian-cysts"
+    }, 
+    {
+        "name": "roseola"
+    }, 
+    {
+        "name": "common-cold"
+    }, 
+    {
+        "name": "brain-avm"
+    }, 
+    {
+        "name": "kawasaki-disease"
+    }, 
+    {
+        "name": "gerd"
+    }, 
+    {
+        "name": "dislocated-elbow"
+    }, 
+    {
+        "name": "brachial-plexus-injury"
+    }, 
+    {
+        "name": "west-nile-virus"
+    }, 
+    {
+        "name": "renal-artery-stenosis"
+    }, 
+    {
+        "name": "osteosarcoma"
+    }, 
+    {
+        "name": "broken-nose"
+    }, 
+    {
+        "name": "encopresis"
+    }, 
+    {
+        "name": "dry-mouth"
+    }, 
+    {
+        "name": "hunter-syndrome"
+    }, 
+    {
+        "name": "itchy-skin"
+    }, 
+    {
+        "name": "acromegaly"
+    }, 
+    {
+        "name": "scrotal-masses"
+    }, 
+    {
+        "name": "tachycardia"
+    }, 
+    {
+        "name": "paraneoplastic-syndromes"
+    }, 
+    {
+        "name": "central-sleep-apnea"
+    }, 
+    {
+        "name": "adjustment-disorders"
+    }, 
+    {
+        "name": "mitral-valve-disease"
+    }, 
+    {
+        "name": "cholestasis-of-pregnancy"
+    }, 
+    {
+        "name": "dyshidrosis"
+    }, 
+    {
+        "name": "tapeworm"
+    }, 
+    {
+        "name": "cellulitis"
+    }, 
+    {
+        "name": "testicular-torsion"
+    }, 
+    {
+        "name": "thrombocytosis"
+    }, 
+    {
+        "name": "vaginal-fistulas"
+    }, 
+    {
+        "name": "de-quervains-tenosynovitis"
+    }, 
+    {
+        "name": "sleep-disorders"
+    }, 
+    {
+        "name": "pet-allergy"
+    }, 
+    {
+        "name": "bells-palsy"
+    }, 
+    {
+        "name": "tonsillitis"
+    }, 
+    {
+        "name": "mesenteric-lymphadenitis"
+    }, 
+    {
+        "name": "peanut-allergy"
+    }, 
+    {
+        "name": "swimmers-itch"
+    }, 
+    {
+        "name": "gastrointestinal-bleeding"
+    }, 
+    {
+        "name": "retrograde-ejaculation"
+    }, 
+    {
+        "name": "boils-and-carbuncles"
+    }, 
+    {
+        "name": "chordoma"
+    }, 
+    {
+        "name": "flu"
+    }, 
+    {
+        "name": "bee-stings"
+    }, 
+    {
+        "name": "esophageal-varices"
+    }, 
+    {
+        "name": "sepsis"
+    }, 
+    {
+        "name": "common-cold-in-babies"
+    }, 
+    {
+        "name": "guillain-barre-syndrome"
+    }, 
+    {
+        "name": "bunions"
+    }, 
+    {
+        "name": "fuchs-dystrophy"
+    }, 
+    {
+        "name": "arteriovenous-fistula"
+    }, 
+    {
+        "name": "metatarsalgia"
+    }, 
+    {
+        "name": "tricuspid-valve-disease"
+    }, 
+    {
+        "name": "shin-splints"
+    }, 
+    {
+        "name": "hht"
+    }, 
+    {
+        "name": "hypersomnia"
+    }, 
+    {
+        "name": "bed-wetting"
+    }, 
+    {
+        "name": "keratitis"
+    }, 
+    {
+        "name": "preterm-labor"
+    }, 
+    {
+        "name": "inflammatory-breast-cancer"
+    }, 
+    {
+        "name": "rocky-mountain-spotted-fever"
+    }, 
+    {
+        "name": "suspicious-breast-lumps"
+    }, 
+    {
+        "name": "plantar-fasciitis"
+    }, 
+    {
+        "name": "chronic-fatigue-syndrome"
+    }, 
+    {
+        "name": "addisons-disease"
+    }, 
+    {
+        "name": "adrenal-cancer"
+    }, 
+    {
+        "name": "carcinoid-tumors"
+    }, 
+    {
+        "name": "amniotic-fluid-embolism"
+    }, 
+    {
+        "name": "carcinoma-unknown-primary"
+    }, 
+    {
+        "name": "herniated-disk"
+    }, 
+    {
+        "name": "enlarged-heart"
+    }, 
+    {
+        "name": "polio"
+    }, 
+    {
+        "name": "aortic-stenosis"
+    }, 
+    {
+        "name": "childhood-obesity"
+    }, 
+    {
+        "name": "drug-addiction"
+    }, 
+    {
+        "name": "coronary-artery-disease"
+    }, 
+    {
+        "name": "torn-meniscus"
+    }, 
+    {
+        "name": "cystocele"
+    }, 
+    {
+        "name": "bird-flu"
+    }, 
+    {
+        "name": "acanthosis-nigricans"
+    }, 
+    {
+        "name": "angelman-syndrome"
+    }, 
+    {
+        "name": "hypoparathyroidism"
+    }, 
+    {
+        "name": "cutaneous-t-cell-lymphoma"
+    }, 
+    {
+        "name": "whooping-cough"
+    }, 
+    {
+        "name": "infectious-diseases"
+    }, 
+    {
+        "name": "pediatric-thrombocytopenia"
+    }, 
+    {
+        "name": "ingrown-toenails"
+    }, 
+    {
+        "name": "cavernous-malformations"
+    }, 
+    {
+        "name": "fever"
+    }, 
+    {
+        "name": "naegleria-infection"
+    }, 
+    {
+        "name": "nonmelanoma-skin-cancer"
+    }, 
+    {
+        "name": "diabetic-hypoglycemia"
+    }, 
+    {
+        "name": "mononucleosis"
+    }, 
+    {
+        "name": "menorrhagia"
+    }, 
+    {
+        "name": "peripheral-nerve-injuries"
+    }, 
+    {
+        "name": "arthritis"
+    }, 
+    {
+        "name": "knee-bursitis"
+    }, 
+    {
+        "name": "long-qt-syndrome"
+    }, 
+    {
+        "name": "atrial-septal-defect"
+    }, 
+    {
+        "name": "diaper-rash"
+    }, 
+    {
+        "name": "idiopathic-thrombocytopenic-purpura"
+    }, 
+    {
+        "name": "pyloric-stenosis"
+    }, 
+    {
+        "name": "carcinoid-syndrome"
+    }, 
+    {
+        "name": "cervical-cancer"
+    }, 
+    {
+        "name": "folliculitis"
+    }, 
+    {
+        "name": "hip-fracture"
+    }, 
+    {
+        "name": "postherpetic-neuralgia"
+    }, 
+    {
+        "name": "primary-aldosteronism"
+    }, 
+    {
+        "name": "esophageal-cancer"
+    }, 
+    {
+        "name": "cryoglobulinemia"
+    }, 
+    {
+        "name": "intestinal-obstruction"
+    }, 
+    {
+        "name": "broken-collarbone"
+    }, 
+    {
+        "name": "scleroderma"
+    }, 
+    {
+        "name": "myocarditis"
+    }, 
+    {
+        "name": "stage-4-prostate-cancer"
+    }, 
+    {
+        "name": "peripheral-artery-disease"
+    }, 
+    {
+        "name": "celiac-disease"
+    }, 
+    {
+        "name": "polycystic-kidney-disease"
+    }, 
+    {
+        "name": "cleft-palate"
+    }, 
+    {
+        "name": "ards"
+    }, 
+    {
+        "name": "hypoplastic-left-heart-syndrome"
+    }, 
+    {
+        "name": "hip-labral-tear"
+    }, 
+    {
+        "name": "hemorrhoids"
+    }, 
+    {
+        "name": "vulvodynia"
+    }, 
+    {
+        "name": "bradycardia"
+    }, 
+    {
+        "name": "inguinal-hernia"
+    }, 
+    {
+        "name": "primary-cough-headaches"
+    }, 
+    {
+        "name": "broken-ankle"
+    }, 
+    {
+        "name": "pityriasis-rosea"
+    }, 
+    {
+        "name": "churg-strauss-syndrome"
+    }, 
+    {
+        "name": "swollen-lymph-nodes"
+    }, 
+    {
+        "name": "fibrocystic-breasts"
+    }, 
+    {
+        "name": "neck-pain"
+    }, 
+    {
+        "name": "sarcoidosis"
+    }, 
+    {
+        "name": "epiglottitis"
+    }, 
+    {
+        "name": "hypothermia"
+    }, 
+    {
+        "name": "mgus"
+    }, 
+    {
+        "name": "primary-biliary-cirrhosis"
+    }, 
+    {
+        "name": "microscopic-colitis"
+    }, 
+    {
+        "name": "atrioventricular-canal-defect"
+    }, 
+    {
+        "name": "sudden-cardiac-arrest"
+    }, 
+    {
+        "name": "crest-syndrome"
+    }, 
+    {
+        "name": "malignant-peripheral-nerve-sheath-tumors"
+    }, 
+    {
+        "name": "hairy-cell-leukemia"
+    }, 
+    {
+        "name": "menstrual-cramps"
+    }, 
+    {
+        "name": "rectal-prolapse"
+    }, 
+    {
+        "name": "botulism"
+    }, 
+    {
+        "name": "yeast-infection"
+    }, 
+    {
+        "name": "pediatric-brain-tumors"
+    }, 
+    {
+        "name": "systemic-capillary-leak-syndrome"
+    }, 
+    {
+        "name": "porphyria"
+    }, 
+    {
+        "name": "solitary-fibrous-tumors"
+    }, 
+    {
+        "name": "atypical-hyperplasia"
+    }, 
+    {
+        "name": "perimenopause"
+    }, 
+    {
+        "name": "chemo-brain"
+    }, 
+    {
+        "name": "atelectasis"
+    }, 
+    {
+        "name": "molluscum-contagiosum"
+    }, 
+    {
+        "name": "galactorrhea"
+    }, 
+    {
+        "name": "heart-failure"
+    }, 
+    {
+        "name": "dwarfism"
+    }, 
+    {
+        "name": "spinal-headaches"
+    }, 
+    {
+        "name": "endometrial-cancer"
+    }, 
+    {
+        "name": "cushing-syndrome"
+    }, 
+    {
+        "name": "asbestosis"
+    }, 
+    {
+        "name": "neurodermatitis"
+    }, 
+    {
+        "name": "achilles-tendinitis"
+    }, 
+    {
+        "name": "patent-foramen-ovale"
+    }, 
+    {
+        "name": "blocked-tear-duct"
+    }, 
+    {
+        "name": "cystic-fibrosis"
+    }, 
+    {
+        "name": "stuttering"
+    }, 
+    {
+        "name": "frozen-shoulder"
+    }, 
+    {
+        "name": "iga-nephropathy"
+    }, 
+    {
+        "name": "aphasia"
+    }, 
+    {
+        "name": "fetal-macrosomia"
+    }, 
+    {
+        "name": "floor-mouth-cancer"
+    }, 
+    {
+        "name": "oral-thrush"
+    }, 
+    {
+        "name": "listeria-infection"
+    }, 
+    {
+        "name": "cavities"
+    }, 
+    {
+        "name": "neuromyelitis-optica"
+    }, 
+    {
+        "name": "low-sex-drive-in-women"
+    }, 
+    {
+        "name": "gallstones"
+    }, 
+    {
+        "name": "nonalcoholic-fatty-liver-disease"
+    }, 
+    {
+        "name": "interstitial-lung-disease"
+    }, 
+    {
+        "name": "h-pylori"
+    }, 
+    {
+        "name": "pagets-disease-of-the-breast"
+    }, 
+    {
+        "name": "eosinophilic-esophagitis"
+    }, 
+    {
+        "name": "behcets-disease"
+    }, 
+    {
+        "name": "dry-socket"
+    }, 
+    {
+        "name": "pulmonary-hypertension"
+    }, 
+    {
+        "name": "turner-syndrome"
+    }, 
+    {
+        "name": "tongue-cancer"
+    }, 
+    {
+        "name": "chronic-sinusitis"
+    }, 
+    {
+        "name": "lazy-eye"
+    }, 
+    {
+        "name": "albinism"
+    }, 
+    {
+        "name": "flatfeet"
+    }, 
+    {
+        "name": "constipation"
+    }, 
+    {
+        "name": "benign-adrenal-tumors"
+    }, 
+    {
+        "name": "hiccups"
+    }, 
+    {
+        "name": "moyamoya-disease"
+    }, 
+    {
+        "name": "post-polio-syndrome"
+    }, 
+    {
+        "name": "men1"
+    }, 
+    {
+        "name": "kidney-cancer"
+    }, 
+    {
+        "name": "whiplash"
+    }, 
+    {
+        "name": "thunderclap-headaches"
+    }, 
+    {
+        "name": "osgood-schlatter-disease"
+    }, 
+    {
+        "name": "prescription-drug-abuse"
+    }, 
+    {
+        "name": "uterine-fibroids"
+    }, 
+    {
+        "name": "waldenstrom-macroglobulinemia"
+    }, 
+    {
+        "name": "agoraphobia"
+    }, 
+    {
+        "name": "panic-attacks"
+    }, 
+    {
+        "name": "vertigo"
+    }, 
+    {
+        "name": "dermatomyositis"
+    }, 
+    {
+        "name": "food-poisoning"
+    }, 
+    {
+        "name": "toxic-hepatitis"
+    }, 
+    {
+        "name": "lobular-carcinoma-in-situ"
+    }, 
+    {
+        "name": "chronic-pelvic-pain"
+    }, 
+    {
+        "name": "ulcerative-colitis"
+    }, 
+    {
+        "name": "type-1-diabetes"
+    }, 
+    {
+        "name": "emphysema"
+    }, 
+    {
+        "name": "presbyopia"
+    }, 
+    {
+        "name": "compulsive-gambling"
+    }, 
+    {
+        "name": "aortic-valve-disease"
+    }, 
+    {
+        "name": "horner-syndrome"
+    }, 
+    {
+        "name": "chronic-granulomatous-disease"
+    }, 
+    {
+        "name": "enterocele"
+    }, 
+    {
+        "name": "pseudogout"
+    }, 
+    {
+        "name": "blastocystis-hominis"
+    }, 
+    {
+        "name": "vaginitis"
+    }, 
+    {
+        "name": "ebsteins-anomaly"
+    }, 
+    {
+        "name": "pneumothorax"
+    }, 
+    {
+        "name": "penicillin-allergy"
+    }, 
+    {
+        "name": "cluster-headache"
+    }, 
+    {
+        "name": "recurrent-breast-cancer"
+    }, 
+    {
+        "name": "precocious-puberty"
+    }, 
+    {
+        "name": "raynauds-disease"
+    }, 
+    {
+        "name": "bedbugs"
+    }, 
+    {
+        "name": "kidney-infection"
+    }, 
+    {
+        "name": "toxoplasmosis"
+    }, 
+    {
+        "name": "ascariasis"
+    }, 
+    {
+        "name": "diabetic-ketoacidosis"
+    }, 
+    {
+        "name": "thyroid-nodules"
+    }, 
+    {
+        "name": "arteriosclerosis-atherosclerosis"
+    }, 
+    {
+        "name": "separated-shoulder"
+    }, 
+    {
+        "name": "spermatocele"
+    }, 
+    {
+        "name": "hepatopulmonary-syndrome"
+    }, 
+    {
+        "name": "pleurisy"
+    }, 
+    {
+        "name": "antibiotic-associated-diarrhea"
+    }, 
+    {
+        "name": "acl-injury"
+    }, 
+    {
+        "name": "legg-calve-perthes-disease"
+    }, 
+    {
+        "name": "kyphosis"
+    }, 
+    {
+        "name": "rotavirus"
+    }, 
+    {
+        "name": "c-difficile"
+    }, 
+    {
+        "name": "vesicoureteral-reflux"
+    }, 
+    {
+        "name": "alzheimers-disease"
+    }, 
+    {
+        "name": "osteomyelitis"
+    }, 
+    {
+        "name": "aortic-valve-regurgitation"
+    }, 
+    {
+        "name": "cellulite"
+    }, 
+    {
+        "name": "retinal-detachment"
+    }, 
+    {
+        "name": "placental-abruption"
+    }, 
+    {
+        "name": "brucellosis"
+    }, 
+    {
+        "name": "indigestion"
+    }, 
+    {
+        "name": "nasal-polyps"
+    }, 
+    {
+        "name": "breast-cysts"
+    }, 
+    {
+        "name": "diabetes-insipidus"
+    }, 
+    {
+        "name": "liver-failure"
+    }, 
+    {
+        "name": "central-nervous-system-vascular-malformations"
+    }, 
+    {
+        "name": "hay-fever"
+    }, 
+    {
+        "name": "varicocele"
+    }, 
+    {
+        "name": "dysthymia"
+    }, 
+    {
+        "name": "vitiligo"
+    }, 
+    {
+        "name": "ewings-sarcoma"
+    }, 
+    {
+        "name": "obesity"
+    }, 
+    {
+        "name": "croup"
+    }, 
+    {
+        "name": "hidradenitis-suppurativa"
+    }, 
+    {
+        "name": "chronic-cough"
+    }, 
+    {
+        "name": "delayed-ejaculation"
+    }, 
+    {
+        "name": "meningioma"
+    }, 
+    {
+        "name": "concussion"
+    }, 
+    {
+        "name": "prediabetes"
+    }, 
+    {
+        "name": "mastitis"
+    }, 
+    {
+        "name": "inherited-metabolic-disorders"
+    }, 
+    {
+        "name": "mesenteric-ischemia"
+    }, 
+    {
+        "name": "hirsutism"
+    }, 
+    {
+        "name": "rectovaginal-fistula"
+    }, 
+    {
+        "name": "rheumatoid-arthritis"
+    }, 
+    {
+        "name": "scabies"
+    }, 
+    {
+        "name": "urinary-incontinence"
+    }, 
+    {
+        "name": "viral-gastroenteritis"
+    }, 
+    {
+        "name": "anal-cancer"
+    }, 
+    {
+        "name": "heartburn"
+    }, 
+    {
+        "name": "hashimotos-disease"
+    }, 
+    {
+        "name": "exercise-induced-asthma"
+    }, 
+    {
+        "name": "stomach-pain"
+    }, 
+    {
+        "name": "chest-pain"
+    }, 
+    {
+        "name": "antiphospholipid-syndrome"
+    }, 
+    {
+        "name": "familial-adenomatous-polyposis"
+    }, 
+    {
+        "name": "copd"
+    }, 
+    {
+        "name": "peripheral-nerve-tumors-benign"
+    }, 
+    {
+        "name": "insomnia"
+    }, 
+    {
+        "name": "thoracic-outlet-syndrome"
+    }, 
+    {
+        "name": "ureteral-obstruction"
+    }, 
+    {
+        "name": "pregnancy-loss-miscarriage"
+    }, 
+    {
+        "name": "pcos"
+    }, 
+    {
+        "name": "niemann-pick"
+    }, 
+    {
+        "name": "yips"
+    }, 
+    {
+        "name": "sexually-transmitted-diseases-stds"
+    }, 
+    {
+        "name": "diabetic-hyperosmolar-syndrome"
+    }, 
+    {
+        "name": "sweets-syndrome"
+    }, 
+    {
+        "name": "dissociative-disorders"
+    }, 
+    {
+        "name": "triple-x-syndrome"
+    }, 
+    {
+        "name": "cirrhosis"
+    }, 
+    {
+        "name": "sacral-dimple"
+    }, 
+    {
+        "name": "salmonella"
+    }, 
+    {
+        "name": "anxiety"
+    }, 
+    {
+        "name": "infertility"
+    }, 
+    {
+        "name": "crohns-disease"
+    }, 
+    {
+        "name": "hantavirus-pulmonary-syndrome"
+    }, 
+    {
+        "name": "keratosis-pilaris"
+    }, 
+    {
+        "name": "schizophrenia"
+    }, 
+    {
+        "name": "cerebral-palsy"
+    }, 
+    {
+        "name": "morphea"
+    }, 
+    {
+        "name": "pneumonia"
+    }, 
+    {
+        "name": "selective-iga-deficiency"
+    }, 
+    {
+        "name": "cold-sore"
+    }, 
+    {
+        "name": "ichthyosis-vulgaris"
+    }, 
+    {
+        "name": "islet-cell-cancer"
+    }, 
+    {
+        "name": "eyestrain"
+    }, 
+    {
+        "name": "sebaceous-cysts"
+    }, 
+    {
+        "name": "sty"
+    }, 
+    {
+        "name": "desmoid-tumors"
+    }, 
+    {
+        "name": "heart-palpitations"
+    }, 
+    {
+        "name": "latex-allergy"
+    }, 
+    {
+        "name": "primary-progressive-aphasia"
+    }, 
+    {
+        "name": "mitral-valve-stenosis"
+    }, 
+    {
+        "name": "stress-fractures"
+    }, 
+    {
+        "name": "kidney-disease"
+    }, 
+    {
+        "name": "lice"
+    }, 
+    {
+        "name": "peritonitis"
+    }, 
+    {
+        "name": "gingivitis"
+    }, 
+    {
+        "name": "hemangioma"
+    }, 
+    {
+        "name": "adhd"
+    }, 
+    {
+        "name": "sclerosing-mesenteritis"
+    }, 
+    {
+        "name": "sweating-and-body-odor"
+    }, 
+    {
+        "name": "dementia"
+    }, 
+    {
+        "name": "lymphedema"
+    }, 
+    {
+        "name": "premature-ovarian-failure"
+    }, 
+    {
+        "name": "posterior-cortical-atrophy"
+    }, 
+    {
+        "name": "swine-flu"
+    }, 
+    {
+        "name": "urinary-tract-infection"
+    }, 
+    {
+        "name": "goiter"
+    }, 
+    {
+        "name": "autoimmune-pancreatitis"
+    }, 
+    {
+        "name": "allergies"
+    }, 
+    {
+        "name": "pulmonary-fibrosis"
+    }, 
+    {
+        "name": "broken-ribs"
+    }, 
+    {
+        "name": "lung-cancer"
+    }, 
+    {
+        "name": "ventricular-tachycardia"
+    }, 
+    {
+        "name": "bone-and-joint-infections"
+    }, 
+    {
+        "name": "polymorphous-light-eruption"
+    }, 
+    {
+        "name": "truncus-arteriosus"
+    }, 
+    {
+        "name": "histoplasmosis"
+    }, 
+    {
+        "name": "broken-heart-syndrome"
+    }, 
+    {
+        "name": "retinoblastoma"
+    }, 
+    {
+        "name": "wilsons-disease"
+    }, 
+    {
+        "name": "gangrene"
+    }, 
+    {
+        "name": "colic"
+    }, 
+    {
+        "name": "hpv-infection"
+    }, 
+    {
+        "name": "bad-breath"
+    }, 
+    {
+        "name": "jock-itch"
+    }, 
+    {
+        "name": "bile-duct-cancer"
+    }, 
+    {
+        "name": "sprained-ankle"
+    }, 
+    {
+        "name": "noonan-syndrome"
+    }, 
+    {
+        "name": "chronic-traumatic-encephalopathy"
+    }, 
+    {
+        "name": "serotonin-syndrome"
+    }, 
+    {
+        "name": "complex-regional-pain-syndrome"
+    }, 
+    {
+        "name": "spontaneous-coronary-artery-dissection"
+    }, 
+    {
+        "name": "hamstring-injury"
+    }, 
+    {
+        "name": "sheehans-syndrome"
+    }, 
+    {
+        "name": "pulmonary-edema"
+    }, 
+    {
+        "name": "eisenmenger-syndrome"
+    }, 
+    {
+        "name": "thrombocytopenia"
+    }, 
+    {
+        "name": "migraine-with-aura"
+    }, 
+    {
+        "name": "lupus-nephritis"
+    }, 
+    {
+        "name": "hurthle-cell-cancer"
+    }, 
+    {
+        "name": "mental-illness"
+    }, 
+    {
+        "name": "germ-cell-tumors"
+    }, 
+    {
+        "name": "common-variable-immunodeficiency"
+    }, 
+    {
+        "name": "achalasia"
+    }, 
+    {
+        "name": "hyperthyroidism"
+    }, 
+    {
+        "name": "endometriosis"
+    }, 
+    {
+        "name": "pouchitis"
+    }, 
+    {
+        "name": "hydrocephalus"
+    }, 
+    {
+        "name": "convergence-insufficiency"
+    }, 
+    {
+        "name": "acute-sinusitis"
+    }, 
+    {
+        "name": "bile-reflux"
+    }, 
+    {
+        "name": "low-sperm-count"
+    }, 
+    {
+        "name": "ganglion-cyst"
+    }, 
+    {
+        "name": "dystonia"
+    }, 
+    {
+        "name": "frontotemporal-dementia"
+    }, 
+    {
+        "name": "ameloblastoma"
+    }, 
+    {
+        "name": "bullous-pemphigoid"
+    }, 
+    {
+        "name": "thyroid-cancer"
+    }, 
+    {
+        "name": "squamous-cell-carcinoma"
+    }, 
+    {
+        "name": "trachoma"
+    }, 
+    {
+        "name": "premature-ventricular-contractions"
+    }, 
+    {
+        "name": "cholecystitis"
+    }, 
+    {
+        "name": "mumps"
+    }, 
+    {
+        "name": "conjoined-twins"
+    }, 
+    {
+        "name": "chilblains"
+    }, 
+    {
+        "name": "gonorrhea"
+    }, 
+    {
+        "name": "stevens-johnson-syndrome"
+    }, 
+    {
+        "name": "asthma-attack"
+    }, 
+    {
+        "name": "nephrogenic-systemic-fibrosis"
+    }, 
+    {
+        "name": "nasopharyngeal-carcinoma"
+    }, 
+    {
+        "name": "night-terrors"
+    }, 
+    {
+        "name": "hemifacial-spasm"
+    }, 
+    {
+        "name": "dandruff"
+    }, 
+    {
+        "name": "barretts-esophagus"
+    }, 
+    {
+        "name": "male-hypogonadism"
+    }, 
+    {
+        "name": "acne"
+    }, 
+    {
+        "name": "ocd"
+    }, 
+    {
+        "name": "poison-ivy"
+    }, 
+    {
+        "name": "cardiogenic-shock"
+    }, 
+    {
+        "name": "carbon-monoxide"
+    }, 
+    {
+        "name": "lead-poisoning"
+    }, 
+    {
+        "name": "von-willebrand-disease"
+    }, 
+    {
+        "name": "muscle-cramp"
+    }, 
+    {
+        "name": "spinal-cord-injury"
+    }, 
+    {
+        "name": "peripheral-nerve-tumors"
+    }, 
+    {
+        "name": "klippel-trenaunay"
+    }, 
+    {
+        "name": "alcoholism"
+    }, 
+    {
+        "name": "clubfoot"
+    }, 
+    {
+        "name": "aspergillosis"
+    }, 
+    {
+        "name": "wheat-allergy"
+    }, 
+    {
+        "name": "iritis"
+    }, 
+    {
+        "name": "type-2-diabetes"
+    }, 
+    {
+        "name": "tinnitus"
+    }, 
+    {
+        "name": "astigmatism"
+    }, 
+    {
+        "name": "cholera"
+    }, 
+    {
+        "name": "ovarian-cancer"
+    }, 
+    {
+        "name": "phantom-pain"
+    }, 
+    {
+        "name": "compulsive-sexual-behavior"
+    }, 
+    {
+        "name": "wrist-pain"
+    }, 
+    {
+        "name": "tuberculosis"
+    }, 
+    {
+        "name": "breast-cancer"
+    }, 
+    {
+        "name": "invasive-lobular-carcinoma"
+    }, 
+    {
+        "name": "retractile-testicle"
+    }, 
+    {
+        "name": "erectile-dysfunction"
+    }, 
+    {
+        "name": "cryptosporidium"
+    }, 
+    {
+        "name": "ischemic-colitis"
+    }, 
+    {
+        "name": "ventricular-fibrillation"
+    }, 
+    {
+        "name": "broken-leg"
+    }, 
+    {
+        "name": "pulmonary-embolism"
+    }, 
+    {
+        "name": "morning-sickness"
+    }, 
+    {
+        "name": "black-hairy-tongue"
+    }, 
+    {
+        "name": "oral-and-throat-cancer"
+    }, 
+    {
+        "name": "optic-neuritis"
+    }, 
+    {
+        "name": "deep-vein-thrombosis"
+    }, 
+    {
+        "name": "ehlers-danlos-syndrome"
+    }, 
+    {
+        "name": "urethral-stricture"
+    }, 
+    {
+        "name": "common-warts"
+    }, 
+    {
+        "name": "dizziness"
+    }, 
+    {
+        "name": "soft-palate-cancer"
+    }, 
+    {
+        "name": "hypochondria"
+    }, 
+    {
+        "name": "gout"
+    }, 
+    {
+        "name": "pediatric-sleep-apnea"
+    }, 
+    {
+        "name": "craniosynostosis"
+    }, 
+    {
+        "name": "eating-disorders"
+    }, 
+    {
+        "name": "enlarged-liver"
+    }, 
+    {
+        "name": "posterior-cruciate-ligament"
+    }, 
+    {
+        "name": "spinal-arteriovenous-malformations"
+    }, 
+    {
+        "name": "mitral-valve-prolapse"
+    }, 
+    {
+        "name": "tuberous-sclerosis"
+    }, 
+    {
+        "name": "tay-sachs-disease"
+    }, 
+    {
+        "name": "stress-incontinence"
+    }, 
+    {
+        "name": "narcissistic-personality-disorder"
+    }, 
+    {
+        "name": "chondrosarcoma"
+    }, 
+    {
+        "name": "vascular-dementia"
+    }, 
+    {
+        "name": "odontogenic-lesions"
+    }, 
+    {
+        "name": "jellyfish-stings"
+    }, 
+    {
+        "name": "male-breast-cancer"
+    }, 
+    {
+        "name": "breast-pain"
+    }, 
+    {
+        "name": "angina"
+    }, 
+    {
+        "name": "trichinosis"
+    }, 
+    {
+        "name": "geographic-tongue"
+    }, 
+    {
+        "name": "impetigo"
+    }, 
+    {
+        "name": "diffuse-idiopathic-skeletal-hyperostosis"
+    }, 
+    {
+        "name": "congenital-myopathies"
+    }, 
+    {
+        "name": "autonomic-neuropathy"
+    }, 
+    {
+        "name": "depersonalization-derealization-disorder"
+    }, 
+    {
+        "name": "sex-headaches"
+    }, 
+    {
+        "name": "foot-drop"
+    }, 
+    {
+        "name": "trichomoniasis"
+    }, 
+    {
+        "name": "respiratory-syncytial-virus"
+    }, 
+    {
+        "name": "vitamin-deficiency-anemia"
+    }, 
+    {
+        "name": "wet-macular-degeneration"
+    }, 
+    {
+        "name": "endocarditis"
+    }, 
+    {
+        "name": "whipples-disease"
+    }, 
+    {
+        "name": "petit-mal-seizure"
+    }, 
+    {
+        "name": "liposarcoma"
+    }, 
+    {
+        "name": "pseudomembranous-colitis"
+    }, 
+    {
+        "name": "intracranial-hematoma"
+    }, 
+    {
+        "name": "encephalitis"
+    }, 
+    {
+        "name": "adult-adhd"
+    }, 
+    {
+        "name": "pheochromocytoma"
+    }, 
+    {
+        "name": "hyperparathyroidism"
+    }, 
+    {
+        "name": "head-and-neck-cancers"
+    }, 
+    {
+        "name": "pink-eye"
+    }, 
+    {
+        "name": "parvovirus-infection"
+    }, 
+    {
+        "name": "sleep-apnea"
+    }, 
+    {
+        "name": "prader-willi-syndrome"
+    }, 
+    {
+        "name": "osteochondritis-dissecans"
+    }, 
+    {
+        "name": "male-infertility"
+    }, 
+    {
+        "name": "ambiguous-genitalia"
+    }, 
+    {
+        "name": "diverticulitis"
+    }, 
+    {
+        "name": "coma"
+    }, 
+    {
+        "name": "tetralogy-of-fallot"
+    }, 
+    {
+        "name": "high-blood-pressure-in-children"
+    }, 
+    {
+        "name": "overactive-bladder"
+    }, 
+    {
+        "name": "dural-arteriovenous-fistulas"
+    }, 
+    {
+        "name": "bartholin-cyst"
+    }, 
+    {
+        "name": "dysarthria"
+    }, 
+    {
+        "name": "lichen-sclerosus"
+    }, 
+    {
+        "name": "pubic-lice-crabs"
+    }, 
+    {
+        "name": "chronic-exertional-compartment-syndrome"
+    }, 
+    {
+        "name": "macular-degeneration"
+    }, 
+    {
+        "name": "rem-sleep-behavior-disorder"
+    }, 
+    {
+        "name": "small-vessel-disease"
+    }, 
+    {
+        "name": "burning-mouth-syndrome"
+    }, 
+    {
+        "name": "hot-flashes"
+    }, 
+    {
+        "name": "broken-wrist"
+    }, 
+    {
+        "name": "delirium"
+    }, 
+    {
+        "name": "nightmare-disorder"
+    }, 
+    {
+        "name": "laryngitis"
+    }, 
+    {
+        "name": "kidney-cysts"
+    }, 
+    {
+        "name": "binge-eating-disorder"
+    }, 
+    {
+        "name": "dysphagia"
+    }, 
+    {
+        "name": "metabolic-syndrome"
+    }, 
+    {
+        "name": "cancer"
+    }, 
+    {
+        "name": "multiple-myeloma"
+    }, 
+    {
+        "name": "factor-v-leiden"
+    }, 
+    {
+        "name": "mold-allergy"
+    }, 
+    {
+        "name": "premenstrual-syndrome"
+    }, 
+    {
+        "name": "blepharitis"
+    }, 
+    {
+        "name": "cold-urticaria"
+    }, 
+    {
+        "name": "viral-hemorrhagic-fevers"
+    }, 
+    {
+        "name": "marfan-syndrome"
+    }, 
+    {
+        "name": "ataxia"
+    }, 
+    {
+        "name": "mild-cognitive-impairment"
+    }, 
+    {
+        "name": "dislocation"
+    }, 
+    {
+        "name": "intussusception"
+    }, 
+    {
+        "name": "esophageal-spasms"
+    }, 
+    {
+        "name": "genital-herpes"
+    }, 
+    {
+        "name": "pinworm"
+    }, 
+    {
+        "name": "thrombocythemia"
+    }, 
+    {
+        "name": "pancreatic-cysts"
+    }, 
+    {
+        "name": "actinic-keratosis"
+    }, 
+    {
+        "name": "dyslexia"
+    }, 
+    {
+        "name": "occupational-asthma"
+    }, 
+    {
+        "name": "dry-skin"
+    }, 
+    {
+        "name": "gynecomastia"
+    }, 
+    {
+        "name": "blind-loop-syndrome"
+    }, 
+    {
+        "name": "x-linked-agammaglobulinemia"
+    }, 
+    {
+        "name": "spasmodic-torticollis"
+    }, 
+    {
+        "name": "metachromatic-leukodystrophy"
+    }, 
+    {
+        "name": "radiation-sickness"
+    }, 
+    {
+        "name": "amnesia"
+    }, 
+    {
+        "name": "tension-headache"
+    }, 
+    {
+        "name": "granuloma-annulare"
+    }, 
+    {
+        "name": "travelers-diarrhea"
+    }, 
+    {
+        "name": "klinefelter-syndrome"
+    }, 
+    {
+        "name": "multiple-system-atrophy"
+    }, 
+    {
+        "name": "swimmers-ear"
+    }, 
+    {
+        "name": "muscular-dystrophy"
+    }, 
+    {
+        "name": "typhoid-fever"
+    }, 
+    {
+        "name": "congenital-heart-defects"
+    }, 
+    {
+        "name": "chlamydia"
+    }, 
+    {
+        "name": "hodgkins-lymphoma"
+    }, 
+    {
+        "name": "measles"
+    }, 
+    {
+        "name": "rheumatic-fever"
+    }, 
+    {
+        "name": "placenta-previa"
+    }, 
+    {
+        "name": "anorgasmia"
+    }, 
+    {
+        "name": "diabetic-coma"
+    }, 
+    {
+        "name": "nasal-paranasal-tumors"
+    }, 
+    {
+        "name": "achilles-tendon-rupture"
+    }, 
+    {
+        "name": "cystitis"
+    }, 
+    {
+        "name": "childhood-asthma"
+    }, 
+    {
+        "name": "vaginal-agenesis"
+    }, 
+    {
+        "name": "subarachnoid-hemorrhage"
+    }, 
+    {
+        "name": "giardia-infection"
+    }, 
+    {
+        "name": "frontal-lobe-seizures"
+    }, 
+    {
+        "name": "avascular-necrosis"
+    }, 
+    {
+        "name": "child-abuse"
+    }, 
+    {
+        "name": "phenylketonuria"
+    }, 
+    {
+        "name": "ulnar-wrist-pain"
+    }, 
+    {
+        "name": "ingrown-hair"
+    }, 
+    {
+        "name": "glomerulonephritis"
+    }, 
+    {
+        "name": "craniopharyngioma"
+    }, 
+    {
+        "name": "heat-exhaustion"
+    }, 
+    {
+        "name": "fibrous-dysplasia"
+    }, 
+    {
+        "name": "childhood-apraxia-of-speech"
+    }, 
+    {
+        "name": "thalassemia"
+    }, 
+    {
+        "name": "adrenoleukodystrophy"
+    }, 
+    {
+        "name": "trench-mouth"
+    }, 
+    {
+        "name": "wegeners-granulomatosis"
+    }, 
+    {
+        "name": "oral-lichen-planus"
+    }, 
+    {
+        "name": "atypical-depression"
+    }, 
+    {
+        "name": "milia"
+    }, 
+    {
+        "name": "mortons-neuroma"
+    }, 
+    {
+        "name": "gastrointestinal-stromal-tumors"
+    }, 
+    {
+        "name": "bundle-branch-block"
+    }, 
+    {
+        "name": "osteomalacia"
+    }, 
+    {
+        "name": "hypoglycemia"
+    }, 
+    {
+        "name": "dresslers-syndrome"
+    }, 
+    {
+        "name": "chronic-lymphocytic-leukemia"
+    }, 
+    {
+        "name": "colon-cancer"
+    }, 
+    {
+        "name": "pseudotumor-cerebri"
+    }, 
+    {
+        "name": "hydrocele"
+    }, 
+    {
+        "name": "obstructive-sleep-apnea"
+    }, 
+    {
+        "name": "prostate-cancer"
+    }, 
+    {
+        "name": "eczema"
+    }, 
+    {
+        "name": "sarcoma"
+    }, 
+    {
+        "name": "huntingtons-disease"
+    }, 
+    {
+        "name": "non-hodgkins-lymphoma"
+    }, 
+    {
+        "name": "food-allergy"
+    }, 
+    {
+        "name": "atrial-fibrillation"
+    }, 
+    {
+        "name": "anhidrosis"
+    }, 
+    {
+        "name": "borderline-personality-disorder"
+    }, 
+    {
+        "name": "infant-jaundice"
+    }, 
+    {
+        "name": "uterine-prolapse"
+    }, 
+    {
+        "name": "febrile-seizure"
+    }, 
+    {
+        "name": "age-spots"
+    }, 
+    {
+        "name": "gauchers-disease"
+    }, 
+    {
+        "name": "sick-sinus-syndrome"
+    }, 
+    {
+        "name": "mesothelioma"
+    }, 
+    {
+        "name": "tinea-versicolor"
+    }, 
+    {
+        "name": "phobias"
+    }, 
+    {
+        "name": "chickenpox"
+    }, 
+    {
+        "name": "uterine-polyps"
+    }, 
+    {
+        "name": "hirschsprungs-disease"
+    }, 
+    {
+        "name": "nicotine-dependence"
+    }, 
+    {
+        "name": "temporal-lobe-seizure"
+    }, 
+    {
+        "name": "tennis-elbow"
+    }, 
+    {
+        "name": "rett-syndrome"
+    }, 
+    {
+        "name": "secondary-hypertension"
+    }, 
+    {
+        "name": "schizotypal-personality-disorder"
+    }, 
+    {
+        "name": "hiatal-hernia"
+    }, 
+    {
+        "name": "hemochromatosis"
+    }, 
+    {
+        "name": "mouth-cancer"
+    }, 
+    {
+        "name": "hepatitis-c"
+    }, 
+    {
+        "name": "hearing-loss"
+    }, 
+    {
+        "name": "constipation-in-children"
+    }, 
+    {
+        "name": "umbilical-hernia"
+    }, 
+    {
+        "name": "psoriasis"
+    }, 
+    {
+        "name": "psoriatic-arthritis"
+    }, 
+    {
+        "name": "osteoarthritis"
+    }, 
+    {
+        "name": "complicated-grief"
+    }, 
+    {
+        "name": "generalized-anxiety-disorder"
+    }, 
+    {
+        "name": "ramsay-hunt-syndrome"
+    }, 
+    {
+        "name": "bronchiolitis"
+    }, 
+    {
+        "name": "sunburn"
+    }, 
+    {
+        "name": "post-concussion-syndrome"
+    }, 
+    {
+        "name": "diabetes"
+    }, 
+    {
+        "name": "chronic-daily-headaches"
+    }, 
+    {
+        "name": "lupus"
+    }, 
+    {
+        "name": "amyotrophic-lateral-sclerosis"
+    }, 
+    {
+        "name": "pericardial-effusion"
+    }, 
+    {
+        "name": "baby-acne"
+    }, 
+    {
+        "name": "hip-impingement"
+    }, 
+    {
+        "name": "rectal-ulcer"
+    }, 
+    {
+        "name": "golfers-elbow"
+    }, 
+    {
+        "name": "stretch-marks"
+    }, 
+    {
+        "name": "group-b-strep"
+    }, 
+    {
+        "name": "digeorge-syndrome"
+    }, 
+    {
+        "name": "diphtheria"
+    }, 
+    {
+        "name": "nonallergic-rhinitis"
+    }, 
+    {
+        "name": "pancreatic-cancer"
+    }, 
+    {
+        "name": "prolactinoma"
+    }, 
+    {
+        "name": "colon-polyps"
+    }, 
+    {
+        "name": "bone-spurs"
+    }, 
+    {
+        "name": "edema"
+    }, 
+    {
+        "name": "diarrhea"
+    }, 
+    {
+        "name": "water-on-the-knee"
+    }, 
+    {
+        "name": "broken-toe"
+    }, 
+    {
+        "name": "calciphylaxis"
+    }, 
+    {
+        "name": "microcephaly"
+    }, 
+    {
+        "name": "dehydration"
+    }, 
+    {
+        "name": "wisdom-teeth"
+    }, 
+    {
+        "name": "small-bowel-cancer"
+    }, 
+    {
+        "name": "alcoholic-hepatitis"
+    }, 
+    {
+        "name": "kleptomania"
+    }, 
+    {
+        "name": "grand-mal-seizure"
+    }, 
+    {
+        "name": "pilonidal-cyst"
+    }, 
+    {
+        "name": "esthesioneuroblastoma"
+    }, 
+    {
+        "name": "claudication"
+    }, 
+    {
+        "name": "hyponatremia"
+    }, 
+    {
+        "name": "krabbe-disease"
+    }, 
+    {
+        "name": "lymphoma"
+    }, 
+    {
+        "name": "asthma"
+    }, 
+    {
+        "name": "drug-allergy"
+    }, 
+    {
+        "name": "charcot-marie-tooth-disease"
+    }, 
+    {
+        "name": "dilated-cardiomyopathy"
+    }, 
+    {
+        "name": "autism-spectrum-disorder"
+    }, 
+    {
+        "name": "cervical-spondylosis"
+    }, 
+    {
+        "name": "shingles"
+    }, 
+    {
+        "name": "narcolepsy"
+    }, 
+    {
+        "name": "aplastic-anemia"
+    }, 
+    {
+        "name": "mosquito-bites"
+    }, 
+    {
+        "name": "vulvar-cancer"
+    }, 
+    {
+        "name": "wilms-tumor"
+    }, 
+    {
+        "name": "hypospadias"
+    }, 
+    {
+        "name": "coarctation-of-the-aorta"
+    }, 
+    {
+        "name": "thrombophlebitis"
+    }, 
+    {
+        "name": "juvenile-rheumatoid-arthritis"
+    }, 
+    {
+        "name": "creutzfeldt-jakob-disease"
+    }, 
+    {
+        "name": "toe-walking"
+    }, 
+    {
+        "name": "lichen-nitidus"
+    }, 
+    {
+        "name": "legionnaires-disease"
+    }, 
+    {
+        "name": "postpartum-thyroiditis"
+    }, 
+    {
+        "name": "bakers-cyst"
+    }, 
+    {
+        "name": "stomach-cancer"
+    }, 
+    {
+        "name": "bladder-stones"
+    }, 
+    {
+        "name": "hammertoe-and-mallet-toe"
+    }, 
+    {
+        "name": "hand-foot-and-mouth-disease"
+    }, 
+    {
+        "name": "dupuytrens-contracture"
+    }, 
+    {
+        "name": "trigeminal-neuralgia"
+    }, 
+    {
+        "name": "movement-disorders"
+    }, 
+    {
+        "name": "self-injury"
+    }, 
+    {
+        "name": "burns"
+    }, 
+    {
+        "name": "tourette-syndrome"
+    }, 
+    {
+        "name": "rosacea"
+    }, 
+    {
+        "name": "sun-allergy"
+    }, 
+    {
+        "name": "hemolytic-uremic-syndrome"
+    }, 
+    {
+        "name": "fibromyalgia"
+    }, 
+    {
+        "name": "tooth-abscess"
+    }, 
+    {
+        "name": "urine-color"
+    }, 
+    {
+        "name": "e-coli"
+    }, 
+    {
+        "name": "myelodysplastic-syndromes"
+    }, 
+    {
+        "name": "yellow-fever"
+    }, 
+    {
+        "name": "tonsil-cancer"
+    }, 
+    {
+        "name": "sickle-cell-anemia"
+    }, 
+    {
+        "name": "corticobasal-degeneration"
+    }, 
+    {
+        "name": "primary-immunodeficiency"
+    }, 
+    {
+        "name": "childhood-disintegrative-disorder"
+    }, 
+    {
+        "name": "mammary-duct-ectasia"
+    }, 
+    {
+        "name": "multiple-sclerosis"
+    }, 
+    {
+        "name": "merkel-cell-carcinoma"
+    }, 
+    {
+        "name": "mood-disorders"
+    }, 
+    {
+        "name": "athletes-foot"
+    }, 
+    {
+        "name": "heart-attack"
+    }, 
+    {
+        "name": "retinal-diseases"
+    }, 
+    {
+        "name": "shaken-baby-syndrome"
+    }, 
+    {
+        "name": "exercise-headaches"
+    }, 
+    {
+        "name": "broken-arm"
+    }, 
+    {
+        "name": "ruptured-eardrum"
+    }, 
+    {
+        "name": "cradle-cap"
+    }, 
+    {
+        "name": "pyoderma-gangrenosum"
+    }, 
+    {
+        "name": "congenital-myasthenic-syndrome"
+    }, 
+    {
+        "name": "snoring"
+    }, 
+    {
+        "name": "gastroparesis"
+    }, 
+    {
+        "name": "lyme-disease"
+    }, 
+    {
+        "name": "pulmonary-atresia"
+    }, 
+    {
+        "name": "mrsa"
+    }, 
+    {
+        "name": "farsightedness"
+    }, 
+    {
+        "name": "keratoconus"
+    }, 
+    {
+        "name": "interstitial-cystitis"
+    }, 
+    {
+        "name": "rectocele"
+    }, 
+    {
+        "name": "left-ventricular-hypertrophy"
+    }, 
+    {
+        "name": "acoustic-neuroma"
+    }, 
+    {
+        "name": "fibromuscular-dysplasia"
+    }, 
+    {
+        "name": "anal-itching"
+    }, 
+    {
+        "name": "transient-ischemic-attack"
+    }, 
+    {
+        "name": "patellar-tendinitis"
+    }, 
+    {
+        "name": "nearsightedness"
+    }, 
+    {
+        "name": "smallpox"
+    }, 
+    {
+        "name": "juvenile-fibromyalgia"
+    }, 
+    {
+        "name": "orthostatic-hypotension"
+    }, 
+    {
+        "name": "graves-disease"
+    }, 
+    {
+        "name": "canker-sore"
+    }, 
+    {
+        "name": "eye-melanoma"
+    }, 
+    {
+        "name": "tmj"
+    }, 
+    {
+        "name": "painful-intercourse"
+    }, 
+    {
+        "name": "sudden-infant-death-syndrome"
+    }, 
+    {
+        "name": "priapism"
+    }, 
+    {
+        "name": "esophagitis"
+    }, 
+    {
+        "name": "ice-cream-headaches"
+    }, 
+    {
+        "name": "takayasus-arteritis"
+    }, 
+    {
+        "name": "gastritis"
+    }, 
+    {
+        "name": "seborrheic-dermatitis"
+    }, 
+    {
+        "name": "dengue-fever"
+    }, 
+    {
+        "name": "peptic-ulcer"
+    }, 
+    {
+        "name": "transverse-myelitis"
+    }, 
+    {
+        "name": "low-blood-pressure"
+    }, 
+    {
+        "name": "tongue-tie"
+    }, 
+    {
+        "name": "bags-under-eyes"
+    }, 
+    {
+        "name": "intermittent-explosive-disorder"
+    }, 
+    {
+        "name": "menopause"
+    }, 
+    {
+        "name": "lip-cancer"
+    }, 
+    {
+        "name": "cardiomyopathy"
+    }, 
+    {
+        "name": "adenomyosis"
+    }, 
+    {
+        "name": "placenta-accreta"
+    }, 
+    {
+        "name": "cataracts"
+    }, 
+    {
+        "name": "ankylosing-spondylitis"
+    }, 
+    {
+        "name": "polycythemia-vera"
+    }, 
+    {
+        "name": "external-compression-headaches"
+    }, 
+    {
+        "name": "adnexal-tumors"
+    }, 
+    {
+        "name": "gestational-diabetes"
+    }, 
+    {
+        "name": "glaucoma"
+    }, 
+    {
+        "name": "short-bowel-syndrome"
+    }, 
+    {
+        "name": "ear-infections"
+    }, 
+    {
+        "name": "fecal-incontinence"
+    }, 
+    {
+        "name": "bronchitis"
+    }, 
+    {
+        "name": "lipoma"
+    }, 
+    {
+        "name": "fetal-alcohol-syndrome"
+    }, 
+    {
+        "name": "pectus-carinatum"
+    }, 
+    {
+        "name": "castleman-disease"
+    }, 
+    {
+        "name": "pectus-excavatum"
+    }, 
+    {
+        "name": "oppositional-defiant-disorder"
+    }, 
+    {
+        "name": "voice-disorders"
+    }, 
+    {
+        "name": "restless-legs-syndrome"
+    }, 
+    {
+        "name": "rotator-cuff-injury"
+    }, 
+    {
+        "name": "soy-allergy"
+    }, 
+    {
+        "name": "radiation-enteritis"
+    }, 
+    {
+        "name": "chagas-disease"
+    }, 
+    {
+        "name": "anal-fissure"
+    }, 
+    {
+        "name": "body-dysmorphic-disorder"
+    }, 
+    {
+        "name": "gas-and-gas-pains"
+    }, 
+    {
+        "name": "spina-bifida"
+    }, 
+    {
+        "name": "prehypertension"
+    }, 
+    {
+        "name": "balance-problems"
+    }, 
+    {
+        "name": "hyperglycemia"
+    }, 
+    {
+        "name": "diabetic-retinopathy"
+    }, 
+    {
+        "name": "anorexia"
+    }, 
+    {
+        "name": "hypopituitarism"
+    }, 
+    {
+        "name": "desmoplastic-tumors"
+    }, 
+    {
+        "name": "syphilis"
+    }, 
+    {
+        "name": "chiari-malformation"
+    }, 
+    {
+        "name": "hives-and-angioedema"
+    }, 
+    {
+        "name": "high-blood-cholesterol"
+    }, 
+    {
+        "name": "childhood-schizophrenia"
+    }, 
+    {
+        "name": "peyronies-disease"
+    }, 
+    {
+        "name": "seasonal-affective-disorder"
+    }, 
+    {
+        "name": "postpartum-preeclampsia"
+    }, 
+    {
+        "name": "pneumonitis"
+    }, 
+    {
+        "name": "liver-problems"
+    }, 
+    {
+        "name": "reyes-syndrome"
+    }, 
+    {
+        "name": "myoclonus"
+    }, 
+    {
+        "name": "liver-hemangioma"
+    }, 
+    {
+        "name": "benign-prostatic-hyperplasia"
+    }, 
+    {
+        "name": "vaginal-atrophy"
+    }, 
+    {
+        "name": "jet-lag"
+    }, 
+    {
+        "name": "zollinger-ellison-syndrome"
+    }, 
+    {
+        "name": "wrinkles"
+    }, 
+    {
+        "name": "ectropion"
+    }, 
+    {
+        "name": "transient-global-amnesia"
+    }, 
+    {
+        "name": "gallbladder-cancer"
+    }, 
+    {
+        "name": "vasovagal-syncope"
+    }, 
+    {
+        "name": "vasculitis"
+    }, 
+    {
+        "name": "heart-disease"
+    }, 
+    {
+        "name": "brugada-syndrome"
+    }, 
+    {
+        "name": "reactive-arthritis"
+    }, 
+    {
+        "name": "bursitis"
+    }, 
+    {
+        "name": "heart-arrhythmia"
+    }, 
+    {
+        "name": "uveitis"
+    }, 
+    {
+        "name": "mixed-connective-tissue-disease"
+    }, 
+    {
+        "name": "conversion-disorder"
+    }, 
+    {
+        "name": "hyperhidrosis"
+    }, 
+    {
+        "name": "plague"
+    }, 
+    {
+        "name": "hyperoxaluria"
+    }, 
+    {
+        "name": "sars"
+    }, 
+    {
+        "name": "pulmonary-valve-stenosis"
+    }, 
+    {
+        "name": "vaginal-dryness"
+    }, 
+    {
+        "name": "infant-acid-reflux"
+    }, 
+    {
+        "name": "dcis"
+    }, 
+    {
+        "name": "chronic-hives"
+    }, 
+    {
+        "name": "liver-cancer"
+    }, 
+    {
+        "name": "scoliosis"
+    }, 
+    {
+        "name": "familial-mediterranean-fever"
+    }, 
+    {
+        "name": "spider-bites"
+    }, 
+    {
+        "name": "aneurysm"
+    }, 
+    {
+        "name": "congenital-adrenal-hyperplasia"
+    }, 
+    {
+        "name": "rickets"
+    }, 
+    {
+        "name": "cyclothymia"
+    }, 
+    {
+        "name": "premature-birth"
+    }, 
+    {
+        "name": "moles"
+    }, 
+    {
+        "name": "poems-syndrome"
+    }, 
+    {
+        "name": "factitious-disorder"
+    }, 
+    {
+        "name": "down-syndrome"
+    }, 
+    {
+        "name": "testicular-cancer"
+    }, 
+    {
+        "name": "airplane-ear"
+    }, 
+    {
+        "name": "milk-allergy"
+    }, 
+    {
+        "name": "premature-ejaculation"
+    }, 
+    {
+        "name": "greenstick-fractures"
+    }, 
+    {
+        "name": "orchitis"
+    }, 
+    {
+        "name": "female-sexual-dysfunction"
+    }, 
+    {
+        "name": "hypercalcemia"
+    }, 
+    {
+        "name": "anaphylaxis"
+    }, 
+    {
+        "name": "primary-sclerosing-cholangitis"
+    }, 
+    {
+        "name": "anthrax"
+    }, 
+    {
+        "name": "epidermolysis-bullosa"
+    }, 
+    {
+        "name": "sinus-headaches"
+    }, 
+    {
+        "name": "meningitis"
+    }, 
+    {
+        "name": "lewy-body-dementia"
+    }, 
+    {
+        "name": "shigella"
+    }, 
+    {
+        "name": "melanoma"
+    }, 
+    {
+        "name": "acute-coronary-syndrome"
+    }, 
+    {
+        "name": "myocardial-ischemia"
+    }, 
+    {
+        "name": "sleepwalking"
+    }, 
+    {
+        "name": "primary-lateral-sclerosis"
+    }, 
+    {
+        "name": "valley-fever"
+    }, 
+    {
+        "name": "giant-cell-arteritis"
+    }, 
+    {
+        "name": "knee-pain"
+    }, 
+    {
+        "name": "inflammatory-bowel-disease"
+    }, 
+    {
+        "name": "lynch-syndrome"
+    }, 
+    {
+        "name": "heart-valve-disease"
+    }, 
+    {
+        "name": "alcohol-poisoning"
+    }, 
+    {
+        "name": "varicose-veins"
+    }, 
+    {
+        "name": "menieres-disease"
+    }, 
+    {
+        "name": "patent-ductus-arteriosus"
+    }, 
+    {
+        "name": "bipolar-disorder"
+    }, 
+    {
+        "name": "polyhydramnios"
+    }, 
+    {
+        "name": "rubella"
+    }, 
+    {
+        "name": "amenorrhea"
+    }, 
+    {
+        "name": "rabies"
+    }, 
+    {
+        "name": "neuroblastoma"
+    }, 
+    {
+        "name": "stickler-syndrome"
+    }, 
+    {
+        "name": "basal-cell-carcinoma"
+    }, 
+    {
+        "name": "ovarian-hyperstimulation-syndrome-ohss"
+    }, 
+    {
+        "name": "scorpion-stings"
+    }, 
+    {
+        "name": "stomach-polyps"
+    }, 
+    {
+        "name": "tetanus"
+    }, 
+    {
+        "name": "acute-lymphocytic-leukemia"
+    }, 
+    {
+        "name": "delayed-sleep-phase"
+    }, 
+    {
+        "name": "tendinitis"
+    }, 
+    {
+        "name": "polymyalgia-rheumatica"
+    }, 
+    {
+        "name": "mittelschmerz"
+    }, 
+    {
+        "name": "polymyositis"
+    }, 
+    {
+        "name": "tricuspid-atresia"
+    }, 
+    {
+        "name": "body-lice"
+    }, 
+    {
+        "name": "hypereosinophilic-syndrome"
+    }, 
+    {
+        "name": "aortic-dissection"
+    }, 
+    {
+        "name": "myofascial-pain-syndrome"
+    }, 
+    {
+        "name": "hemophilia"
+    }, 
+    {
+        "name": "leukoplakia"
+    }, 
+    {
+        "name": "toxic-shock-syndrome"
+    }, 
+    {
+        "name": "buergers-disease"
+    }, 
+    {
+        "name": "growing-pains"
+    }, 
+    {
+        "name": "dermatitis-eczema"
+    }, 
+    {
+        "name": "sjogrens-syndrome"
+    }, 
+    {
+        "name": "pelvic-inflammatory-disease"
+    }, 
+    {
+        "name": "syringomyelia"
+    }, 
+    {
+        "name": "acute-myelogenous-leukemia"
+    }, 
+    {
+        "name": "scarlet-fever"
+    }, 
+    {
+        "name": "bacterial-vaginosis"
+    }, 
+    {
+        "name": "cyclic-vomiting-syndrome"
+    }, 
+    {
+        "name": "atrial-flutter"
+    }, 
+    {
+        "name": "amyloidosis"
+    }, 
+    {
+        "name": "ringworm"
+    }, 
+    {
+        "name": "schizoaffective-disorder"
+    }, 
+    {
+        "name": "costochondritis"
+    }, 
+    {
+        "name": "post-traumatic-stress-disorder"
+    }
+]

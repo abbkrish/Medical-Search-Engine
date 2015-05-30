@@ -1,0 +1,16 @@
+#gmaps {
+    width: 350px;
+    height: 350px;
+    margin-top: 90px;
+       left: 360px;
+       bottom: 0;
+       right: 0;
+}
+
+.map {  width: 350px;
+    height: 350px;
+    margin: auto;
+        }
+        .main {
+            margin-top: 30px;
+        }

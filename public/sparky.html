@@ -1,0 +1,75 @@
+<div class = "container">
+<div class = "row">
+<div style = "width: 2000px; height: 500px">
+<div style="background-color: #5E7372; color: #C3CDCD; border-color: #eea236; border: 10px solid transparent; border-radius: 0px; height: 500px; width: 600px; top: 20px; overflow:scroll; z-index: 1; position-relative; float:left; display:inline; width: 40%" class="col-md-2 col-md-offset-0" data-keyboard="true" data-toggle="modal" data-target="#descModal" id =  "Description">
+        <img src="sampjpg.jpg" style="height: 450px; width: 300px;  margin-top: 30px; float:left; display:inline;
+"></img>
+        <div style="height: 200px; margin-top: 30px; margin: 30px; float:left; display:inline; width: 49%;
+">
+            <p>
+                <!--<center>Description:</center>-->
+                {{ description }}
+                <br>
+                <br>
+                <ul style="list-style-type: none;">
+                    <li ng-repeat="obj in sources">{{obj}}</li>
+                </ul>
+            </p>
+        </div>
+        <br>
+        <br>
+        <div style="background-color: #5E6757; color: #EFF3F2; font: 25px helvetica, sans-serif; height: 30px; line-height:30px; margin-top: 180px; float:right; font-weight: 400">
+            {{query}}
+        </div>
+</div>
+<div style="background-color: #76908E; color: #C3CDCD; border-color: #eea236; border: 10px solid transparent; border-radius: 0px; height: 500px; width: 600px; top: 20px; overflow:scroll; z-index: 1; position-relative; float:left; display:inline; width: 20%" class="col-md-2 col-md-offset-0" data-keyboard="true" data-toggle="modal" data-target="#descModal" id =  "Description">
+        <div style="height: 200px; margin-top: 30px; margin: 30px; float:left; display:inline; width: 90%;
+">
+            <p>
+                <center>Symptoms:</center>
+                <ul >
+                    <li ng-repeat="obj in symptoms">{{obj}}</li>
+                </ul>
+            </p>
+        </div>
+        <br>
+        <br>
+        <div style="background-color: #5E6757; color: #EFF3F2; font: 25px helvetica, sans-serif; height: 30px; line-height:30px; margin-top: 180px; float:right; font-weight: 400">
+            {{query}}
+        </div>
+</div>
+<div style="background-color: #91A6A5; color: #5A6060; border-color: #eea236; border: 10px solid transparent; border-radius: 0px; height: 500px; width: 600px; top: 20px; overflow:scroll; z-index: 1; position-relative; float:left; display:inline; width: 20%" class="col-md-2 col-md-offset-0" data-keyboard="true" data-toggle="modal" data-target="#descModal" id =  "Description">
+        <div style="height: 200px; margin-top: 30px; margin: 30px; float:left; display:inline; width: 90%;
+">
+            <p>
+                <center>Treatments</center>
+                <ul >
+                    <li ng-repeat="obj in treatments">{{obj}}</li>
+                </ul>
+            </p>
+        </div>
+        <br>
+        <br>
+        <div style="background-color: #5E6757; color: #EFF3F2; font: 25px helvetica, sans-serif; height: 30px; line-height:30px; margin-top: 180px; float:right; font-weight: 400">
+            {{query}}
+        </div>
+</div>
+<div style="background-color: #ADBCBB; color: #5A6060; border-color: #eea236; border: 10px solid transparent; border-radius: 0px; height: 500px; width: 600px; top: 20px; overflow:scroll; z-index: 1; position-relative; float:left; display:inline; width: 20%" class="col-md-2 col-md-offset-0" data-keyboard="true" data-toggle="modal" data-target="#descModal" id =  "Description">
+        <div style="height: 200px; margin-top: 30px; margin: 30px; float:left; display:inline; width: 90%;
+">
+            <p>
+                <center>Causes</center>
+                <ul >
+                    <li ng-repeat="obj in conditions">{{obj}}</li>
+                </ul>
+            </p>
+        </div>
+        <br>
+        <br>
+        <div style="background-color: #5E6757; color: #EFF3F2; font: 25px helvetica, sans-serif; height: 30px; line-height:30px; margin-top: 180px; float:right; font-weight: 400">
+            {{query}}
+        </div>
+</div>
+</div>
+</div>
+</div>

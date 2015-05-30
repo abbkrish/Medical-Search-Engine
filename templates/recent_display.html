@@ -1,0 +1,39 @@
+<!--<div class="col-md-10 col-md-offset-12">
+	<h2><center>Your Recent Searches</center></h2>
+	<ol>
+    	<li id='recent-{{$index}}' class="list-group-item" ng-repeat="search in recent_searches track by $index"><a href="" class="recent" ng-click="doSearch(search)">{{search}}</a></li>
+	</ol>
+
+	<div class="panel panel-success">
+  <div class="panel-heading">
+    <h3 class="panel-title">Search History</h3>
+  </div>
+  <div class="panel-body">
+	<ol>
+    	<li id='recent-{{$index}}' class="list-group-item" ng-repeat="search in recent_searches track by $index"><a href="" class="recent" ng-click="doSearch(search)">{{search}}</a></li>
+	</ol>
+</div>
+</div>
+
+<div class="panel panel-warning">
+  <div class="panel-heading">
+    <h3 class="panel-title">Search History</h3>
+  </div>
+  <div class="panel-body">
+    <ol>
+    	<li id='recent-{{$index}}' class="list-group-item" ng-repeat="search in recent_searches track by $index"><a href="" class="recent" ng-click="doSearch(search)">{{search}}</a></li>
+	</ol>
+  </div>
+</div>
+</div>-->
+<div class="pnel" style="z-index: -50;">
+<div class=" center-block panel panel-primary" style="z-index: -50;">
+  <div class="panel-heading " style = "padding-left: 35%; background-color: #66ccff; color:black">
+
+    	<h4 class="panel-title"><a href="javascript:void(0)">Search History</a></h4>
+  </div>
+  <div class="panel-body list-group-item text-center" ng-repeat="search in recent_searches track by $index">
+    	<a href="" class="recent" ng-click="doSearch(search)">{{search}}</a>
+  </div>
+</div>
+</div>

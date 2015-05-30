@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>MedicalBar</title>
+    <link rel="stylesheet" href="https://bootswatch.com/slate/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="slate.css" >
+    <link rel="stylesheet" type="text/css" href="gmap.css">
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=places"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.4/angular.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="event.js"></script>
+    <script src="http://victorshi.com/blog/examples/geolocation/ui-map.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.4/angular-resource.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.4/angular-route.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.4/angular-cookies.js"></script>
+    <script src="https://raw.githubusercontent.com/lodash/lodash/3.6.0/lodash.js"></script>
+    <script src="https://raw.githubusercontent.com/angular-ui/angular-google-maps/master/dist/angular-google-maps.js"></script>
+    <script src="app2.js"></script>
+
+</head>
+<body>
+    <div ng-app="myApp" class="main">
+        <nav style="background-color: #002900; " class="navbar navbar-default navbar-fixed-top">
+            <div class = "navbar-header">
+
+             <!--    <a href = "home" class = "navbar-brand">  <img  ng-src="eHealth3.png" height="40" width="73" style = "margin-top: 0px; margin-left:=-2px; border: 1px solid black;
+            border-radius: 5px;
+            -moz-border-radius: 5px;
+            -khtml-border-radius: 5px;
+            -webkit-border-radius: 5px;"></a> -->
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+            </div>
+            <ol class="nav navbar-nav" ng-hide="hideSearch" ng-controller="BreadCtrl">
+                <li><a href="/home">Home</a></li>
+                <!--
+                <li><a href="#">Library</a></li>
+                <li class="active">Data</li>
+                -->
+                <li ng-class="{active: $index===tags.length-1}" id='crmb-{{$index}}' class="" ng-repeat="tag in tags"><a href="">{{tag}}</a></li>
+                 <li class="nav navbar-nav" ng-controller="BreadCtrl" ng-click="handleClick()"><a href="">Search History</a></li>
+                 <li class="nav navbar-nav" ng-controlloer="BreadCtrl" ng-click="handleClickNearby()"><a href="">Find Nearby Healthcare</a></li>
+            </ol>
+            <!-- <p class="nav navbar-nav" ng-controller="BreadCtrl" ng-click="handleClick()"><a href="">Recent Searches</a></p> -->
+            <div class="container container-fluid" ng-controller="ModalCtrl">
+                <a class="icon">
+                <button ng-click="toggleUser()" class="btn btn-primary navbar-btn pull-right text-primary glyphicon glyphicon-user "></button>
+                </a>
+                <a href="#glass" class="icon">
+                <button ng-if="userShow" class="btn btn-info navbar-btn pull-right text-primary glyphicon glyphicon-glass "></button>
+                </a>
+                <a href="#heart" class="icon">
+                <button ng-if="userShow" class="btn btn-info navbar-btn pull-right text-primary glyphicon glyphicon-heart "></button>
+                </a>
+                <a href="#star" class="icon">
+                <button ng-if="userShow" class="btn btn-info navbar-btn pull-right text-primary glyphicon glyphicon-star "></button>
+                </a>
+                <a class="icon">
+                <button type="button" class="btn navbar-btn text-primary pull-right glyphicon glyphicon-th" data-container="body"  data-html="true" data-title="<center>Features</center>" ng-click="toggleModal()" data-placement="bottom" style="background-color: #33334D; color: #E8E9E6">
+                </button>
+                </a>
+                <a href="#cog" class="icon">
+                <button ng-if="modalShow" class="btn btn-info navbar-btn pull-right text-primary glyphicon glyphicon-cog " style="border-color: #516258; background-color: #516258; color: #E8E9E6"></button>
+                </a>
+                <a href="#tag" class="icon">
+                <button ng-if="modalShow" class="btn btn-info navbar-btn pull-right text-primary glyphicon glyphicon-tag" style="border-color: #516258; background-color: #516258; color: #E8E9E6"></button>
+                </a>
+                <a class="icon">
+                    <div class="dropdown">
+                        <button ng-if="modalShow" class="btn btn-info navbar-btn pull-right text-primary glyphicon glyphicon-share dropdown-toggle" type="button" id="dLabel" data-toggle="dropdown" aria-expanded="true" style="border-color: #516258; background-color: #516258; color: #E8E9E6"></button>
+                        <!--
+                        <a id="dLabel" data-target="#" href="http://example.com" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="false">
+                        Dropdown trigger
+                        <span class="caret"></span>
+                        </a>
+                        -->
+                        <ul class="dropdown-menu pull-right" id="bkdb" role="menu" aria-labelledby="dLabel">
+                            <li><center>Current URL</center></li>
+                            <li>{{url}}</li>
+                        </ul>
+                    </div>
+                </a>
+            </div>
+        </nav>
+        <br><br><br><br><br>
+        <div class="searchBar " ng-hide="searchInput.hideSearch"  style ="position:relative" ng-controller="SearchCtrl">
+        <div class="container container-fluid" ng-controller="SearchCtrl">
+            <div class="input-group " >
+                <input type="text" class="form-control" id = "search" style = "color: #5a5967;" ng-model="searchInput.query" key-navigation="dosomething()">
+                <span class="input-group-addon" style="background-color: #5E6757">
+                    <a class="icon" href="">
+                    <span class="glyphicon glyphicon-search aria-hidden='true' btn-block"
+                     ng-click="submitSearch()" id = "searchButton" style="color: #ffffff"></span>
+                    </a>
+                </span>
+            </div>
+            <div id="ek">
+                <ul class="list-group" ng-if="searchInput.query.length > 1" style="z-index: 20;">
+                    <li id='blk-{{$index}}' class="list-group-item btk" ng-repeat="term in potential_terms | filter:searchInput.query | orderBy:main.order.key:main.order.reverse:strict | limitTo:5"><a href="" class="filtered" ng-click="updateSearch($event)">{{term.name}}</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+     <div class="pull-left">
+            <ng-view></ng-view>
+        </div>
+        <script>
+        $(document).ready(function() {
+            $(function () {
+                $('[data-toggle="popover"]').popover();
+            });
+            $(function () {
+                $('.dropdown-toggle').dropdown();
+            });
+            $('#bkdb').click(function(e) {
+                 e.stopPropagation();
+            });
+            $('#search').keypress(function (e) {
+                var key = e.which;
+                if(key == 13)  // the enter key code
+                {
+
+                    $('#searchButton').click();
+                    return false;
+            }
+            });
+        });
+        </script>
+        <br><br><br>
+        <!--
+        <div class="container">
+            <h2><center>Trending</cennter></h2>
+            <p><center>adsfajldsfhalkdsjfakdfjshjaf</center></p>
+            <!--
+            {{data.message}}
+            <ng-view></ng-view>
+        </div>
+        -->
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+    <!--- This div displays the map container -->
+ <div class="container main" ng-controller="MapCtrl">
+        <form>
+            <div class="row">
+                <div id="map_canvas" ui-map="model.myMap" class="map" ui-options="mapOptions">
+                </div>
+                <div ng-repeat="marker in myMarkers" ui-map-marker="myMarkers[$index]">
+                </div>
+            </div>   
+        </form>
+    </div>       

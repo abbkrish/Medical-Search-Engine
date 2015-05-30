@@ -1,0 +1,247 @@
+<h2 style="color: #271B24;"><center>Your Search for '{{query}}' Returned</center></h2>
+<br>
+<br>
+<br>
+<br>
+<a href="">
+<div class = "container">
+<div class = "row">
+<div style="background-color: #f0ad4e; color: #576c83; border-color: #eea236; border: 10px solid transparent; border-radius: 10px; height: 200px; overflow:scroll; z-index: 1; position-relative;" class="col-md-5 col-md-offset-1" data-keyboard="true" data-toggle="modal" data-target="#descModal" id =  "Description">
+        <div class='clearfix'>
+            <p>
+                <center>Description:</center>
+                {{ description }}
+            </p>
+        </div>
+        <br>
+        <br>
+</div>
+</a>
+<a href="">
+<div style="background-color: #617992; color: #eea236; border-color: #a65339; border: 10px solid transparent; border-radius: 10px; height: 200px; overflow:scroll; z-index: 1; position: relative;" class="col-md-5 col-md-offset-1" data-keyboard="true" data-toggle="modal" data-target="#sympModal" id = "Symptoms" >
+    <div class='clearfix'>
+        <p>
+            <center>Symptoms:</center>
+            <ul>
+                <li ng-repeat="obj in symptoms">{{obj}}</li>
+            </ul>
+        </p>
+    </div>
+    <br>
+    <br>
+</div>
+</a>
+</div>
+<br>
+<div class = "row">
+<a href="">
+<div style="background-color: #617992; color: #eea236; border-color: #a65339; border: 10px solid transparent; border-radius: 10px; height: 200px; overflow:scroll; z-index: 1; position-relative;" class="col-md-5 col-md-offset-1 " data-keyboard="true" data-toggle="modal" data-target="#condModal" id = "Conditions" >
+        <div class='clearfix'>
+            <p>
+                <center>Conditions:</center>
+                <ul>
+                    <li ng-repeat="obj in conditions">{{obj}}</li>
+                </ul>
+            </p>
+        </div>
+        <br>
+        <br>
+</div>
+</a>
+<a href="">
+<div style="background-color: #f0ad4e; color: #576c83; border-color: #eea236; border: 10px solid transparent; border-radius: 10px; height: 200px; overflow:scroll; z-index: 1; position-relative;" class="col-md-5 col-md-offset-1" data-keyboard="true" data-toggle="modal" data-target="#treatModal" id = "Treatments" >
+    <div class='clearfix'>
+        <p>
+            <center>Treatments:</center>
+            <ul>
+                <li ng-repeat="obj in treatments">{{obj}}</li>
+            </ul>
+        </p>
+    </div>
+    <br>
+    <br>
+</div>
+</a>
+<div style="border: 10px solid transparent; border-radius: 10px; height: 200px; width: 82px; margin-left: -484px; margin-top: -150px; position: relative; overflow:scroll; z-index: 1;" class="col-md-3 col-md-offset-0" data-keyboard="true" data-toggle="modal" id = "Souasrces" >
+</div>
+<a href="">
+<div style="background-color: #f0ad4e; color: #271B24; border-color: #a65339; border: 10px solid transparent; border-radius: 10px; height: 200px; width: 400px; margin-left: -650px; margin-top: -150px; position: relative; overflow:scroll; z-index: 0;" class="col-md-3 col-md-offset-0" data-keyboard="true" data-toggle="modal" data-target="#sourcesModal" id = "Sources" >
+    <div class='clearfix'>
+        <!-- Raw data -->
+        <p>
+            <center>Sources:</center>
+            <ul style="list-style-type: none;">
+                <li ng-repeat="obj in sources">{{obj}}</li>
+            </ul>
+        </p>
+    </div>
+    <br>
+    <br>
+</div>
+</a>
+<a href="">
+<div style="color: #271B24; border-color: #a65339; border: 10px solid transparent; border-radius: 10px; height: 50px; width: 400px; margin-left: -650px; margin-top: 230px; position: relative; overflow:scroll; z-index: 1;" class="col-md-3 col-md-offset-0" id = "Updated" >
+    <div class='clearfix'>
+        <!-- Raw data -->
+        <p>
+            <center>Last Updated: {{ updated }}</center>
+        </p>
+    </div>
+    <br>
+    <br>
+</div>
+</a>
+
+</div>
+</div>
+<br>
+<br>
+<br>
+<div id="descModal" class="modal fade" tabindex='-1'>
+    <div class="modal-dialog modal-lg" style="position: absolute; left: 50%; margin-left: -312px; height: 2000px; top: 50%; margin-top: -250px;">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #cfd8d5; color: #5a5967;">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title"><center>Description</center></h4>
+            </div>
+            <div class="modal-body" style="background-color: #5a5967; color: #cfd8d5;">
+                {{description}}
+            </div>
+        </div>
+    </div>
+</div>
+<div id="sympModal" class="modal fade" tabindex='-1'>
+    <div class="modal-dialog modal-lg" style="position: absolute; left: 50%; margin-left: -312px; height: 2000px; top: 50%; margin-top: -250px;">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #cfd8d5; color: #5a5967;">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title"><center>Symptoms</center></h4>
+            </div>
+            <div class="modal-body" style="background-color: #5a5967; color: #cfd8d5;">
+                {{symptoms}}
+            </div>
+        </div>
+    </div>
+</div>
+<div id="condModal" class="modal fade" tabindex='-1'>
+    <div class="modal-dialog modal-lg" style="position: absolute; left: 50%; margin-left: -312px; height: 2000px; top: 50%; margin-top: -250px;">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #cfd8d5; color: #5a5967;">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title"><center>Conditions</center></h4>
+            </div>
+            <div class="modal-body" style="background-color: #5a5967; color: #cfd8d5;">
+                {{conditions}}
+            </div>
+        </div>
+    </div>
+</div>
+<div id="treatModal" class="modal fade" tabindex='-1'>
+    <div class="modal-dialog modal-lg" style="position: absolute; left: 50%; margin-left: -312px; height: 20px; top: 50%; margin-top: -250px;">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #cfd8d5; color: #5a5967;">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title"><center>Treatments</center></h4>
+            </div>
+            <div class="modal-body" style="background-color: #5a5967; color: #cfd8d5;">
+                {{treatments}}
+            </div>
+        </div>
+    </div>
+</div>
+<div id="sourcesModal" class="modal fade" tabindex='-1'>
+    <div class="modal-dialog modal-lg" style="position: absolute; left: 50%; margin-left: -312px; height: 20px; top: 50%; margin-top: -250px;">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #cfd8d5; color: #5a5967;">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title"><center>Sources</center></h4>
+            </div>
+            <div class="modal-body" style="background-color: #5a5967; color: #cfd8d5;">
+                {{sources}}
+            </div>
+        </div>
+    </div>
+</div>
+ <script>
+        $(document).ready(function() {
+           $("#Description").css("box-shadow", "0 0 30px 3px black");
+           $( "#Symptoms" ).hover(
+            function() {
+              $(this).css("box-shadow", "0 0 30px 3px black");
+              $("#Treatments").css("box-shadow", "0 0 10px black");
+              $("#Conditions").css("box-shadow", "0 0 10px black");
+              $("#Description").css("box-shadow", "0 0 10px black");
+              $("#Sources").css("box-shadow", "0 0 10px black");
+              $("#Sources").css("z-index", "0");
+            },
+            function() {
+
+            }
+        );
+         $( "#Treatments" ).hover(
+            function() {
+              $(this).css("box-shadow", "0 0 30px 3px black");
+              $("#Symptoms").css("box-shadow", "0 0 10px black");
+              $("#Conditions").css("box-shadow", "0 0 10px black");
+              $("#Description").css("box-shadow", "0 0 10px black");
+              $("#Sources").css("box-shadow", "0 0 10px black");
+              $("#Sources").css("z-index", "0");
+            },
+            function() {
+
+            }
+        );
+         $( "#Conditions" ).hover(
+            function() {
+              $(this).css("box-shadow", "0 0 30px 3px black");
+              $("#Treatments").css("box-shadow", "0 0 10px black");
+              $("#Symptoms").css("box-shadow", "0 0 10px black");
+              $("#Description").css("box-shadow", "0 0 10px black");
+              $("#Sources").css("box-shadow", "0 0 10px black");
+              $("#Sources").css("z-index", "0");
+            },
+            function() {
+
+            }
+        );
+         $( "#Description" ).hover(
+            function() {
+              $(this).css("box-shadow", "0 0 30px 3px black");
+              $("#Treatments").css("box-shadow", "0 0 10px black");
+              $("#Conditions").css("box-shadow", "0 0 10px black");
+              $("#Symptoms").css("box-shadow", "0 0 10px black");
+              $("#Sources").css("box-shadow", "0 0 10px black");
+              $("#Sources").css("z-index", "0");
+            },
+            function() {
+
+            }
+        );
+        $( "#Souasrces" ).hover(
+           function() {
+             $("#Sources").css("box-shadow", "0 0 30px 3px black");
+             $("#Sources").css("z-index", "1");
+             $("#Treatments").css("box-shadow", "0 0 10px black");
+             $("#Conditions").css("box-shadow", "0 0 10px black");
+             $("#Symptoms").css("box-shadow", "0 0 10px black");
+             $("#Description").css("box-shadow", "0 0 10px black");
+           },
+           function() {
+
+           }
+       );
+        });
+</script>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
